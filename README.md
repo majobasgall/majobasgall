@@ -1,4 +1,4 @@
-# Hi there, I'm María José! 👋
+# Hi there, I'm María José!
 
 I'm a Data Scientist based in Switzerland.  I finished my PhD in Computer Science in May 2022, with a strong technical focus on Big Data preprocessing using technologies such as Spark, Scala, and Python, and applying Machine Learning algorithms for data classification.
 
