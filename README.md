@@ -46,3 +46,5 @@ And get to know about my projects, research papers, and even a glimpse into my p
 
 ### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=majobasgall&show_icons=true&theme=radical)
+
+![majobasgall's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=majobasgall&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
