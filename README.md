@@ -35,7 +35,7 @@ Others:
 [![Scrum](https://img.shields.io/badge/-Scrum-0093DD?logo=scrum)](https://www.scrum.org/)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 
-# Certifications
+### Certifications
 
 ## [![DataCamp Badge](https://img.shields.io/badge/DataCamp-Data%20Scientist%20in%20Python%20Career%20Track-blue)](https://www.datacamp.com/courses/data-scientist-with-python-track)
 ## [![DataCamp Badge](https://img.shields.io/badge/DataCamp-Power%20BI%20Fundamentals%20Skill%20Track-blue)](https://www.datacamp.com/courses/power-bi-fundamentals)
