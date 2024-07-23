@@ -35,6 +35,14 @@ Others:
 [![Scrum](https://img.shields.io/badge/-Scrum-0093DD?logo=scrum)](https://www.scrum.org/)
 [![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?logo=streamlit)](https://streamlit.io/)
 
+# Certifications
+
+## [![DataCamp Badge](https://img.shields.io/badge/DataCamp-Data%20Scientist%20in%20Python%20Career%20Track-blue)](https://www.datacamp.com/courses/data-scientist-with-python-track)
+## [![DataCamp Badge](https://img.shields.io/badge/DataCamp-Power%20BI%20Fundamentals%20Skill%20Track-blue)](https://www.datacamp.com/courses/power-bi-fundamentals)
+## [![Google Cloud Badge](https://img.shields.io/badge/Google%20Cloud-From%20Data%20to%20Insights%20with%20Google%20Cloud%20Specialization-yellow)](https://www.coursera.org/specializations/from-data-to-insights-google-cloud)
+## [![DeepLearning.AI Badge](https://img.shields.io/badge/DeepLearning.AI-Neural%20Networks%20and%20Deep%20Learning%20course-green)](https://www.coursera.org/learn/neural-networks-deep-learning)
+## [![EPFL Badge](https://img.shields.io/badge/EPFL-Functional%20Programming%20Principles%20in%20Scala%20course-red)](https://www.coursera.org/learn/scala-functional-programming)
+## [![EPFL Badge](https://img.shields.io/badge/EPFL-Big%20Data%20Analysis%20with%20Scala%20and%20Spark%20course-red)](https://www.coursera.org/learn/scala-spark-big-data)
 
 ### Let's connect:
 
